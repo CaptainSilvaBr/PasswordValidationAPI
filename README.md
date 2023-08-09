@@ -1,6 +1,6 @@
-# PasswordValidationAPI
+# API de Validação de Senha
 
-API de Validação de Senha
+
 A API de Validação de Senha é uma aplicação construída em .NET 6.0 que oferece a capacidade de validar senhas de acordo com critérios específicos. Essa API foi desenvolvida com foco em fornecer um serviço simples e eficiente para verificar se uma senha atende aos requisitos de complexidade definidos.
 
 Como Utilizar a API
