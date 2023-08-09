@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NUWO+loghQifCTO9nvwZLwxMLupuObmR9WiXlM3syJ8=",
+  "Source": "PasswordValidationAPI",
+  "BasePath": "_content/PasswordValidationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
